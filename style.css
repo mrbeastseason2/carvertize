@@ -364,13 +364,12 @@ body.no-scroll {
 .right {
   flex: 1;
   min-width: 300px;
-  max-height: 850px;
+  max-height: 1000px;
   background: white;
   color: black;
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
-
   z-index: 10;
 }
 
