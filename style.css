@@ -364,7 +364,6 @@ body.no-scroll {
 .right {
   flex: 1;
   min-width: 300px;
-  max-height: 1000px;
   background: white;
   color: black;
   padding: 2rem;
